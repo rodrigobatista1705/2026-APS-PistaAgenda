@@ -1,13 +1,13 @@
-# Nome do Sistema: o que ele faz, em uma frase
+Runway Reservation # : Permite reservar uma pista de atletismo ou algum material esportivo da modalidade
 
 > **Antes de tudo.** Este é o modelo do Projeto Integrador de Análise e Projeto de Sistemas. Se você está lendo isto no seu próprio repositório, deu certo. Troque o título acima pelo nome do seu sistema e por uma frase que diga o que ele faz, preencha a autoria e o cliente e apague este aviso.
 
 Projeto Integrador de Análise e Projeto de Sistemas, 2026.
 IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao Ensino Médio.
 
-**Autoria:** _seu nome, como aparece no AVA_
+**Autoria:** Rodrigo Lima dos Santos Batista
 
-**Cliente:** _o papel do cliente e a relação dele com você, no máximo com o primeiro nome. Por exemplo, "Dona Rosa, minha avó, que faz marmita por encomenda"._
+**Cliente:** Prof Miguel, principal professor a reservar materiais e a pista 
 
 ## Apresentação do projeto
 
